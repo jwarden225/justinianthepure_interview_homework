@@ -1,0 +1,8 @@
+Now here's your problem:
+
+Rows:
+62
+76
+90
+
+Those end up adding to the counter an extra time for each of those integrity counts. Cut that junk out.
